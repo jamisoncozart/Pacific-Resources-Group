@@ -52,6 +52,7 @@ _To view/edit the source code of this application, open the contents in a text e
 * React
 * Create-React-App
 * Node Package Manager
+* HTML5
 
 ### License
 
