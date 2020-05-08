@@ -5,19 +5,12 @@
   <p align='center'>
     <a href='https://github.com/Pieharder/Pacific-Resources-Group/graphs/contributors'>
         <img src='https://img.shields.io/github/contributors/Pieharder/Pacific-Resources-Group.svg?color=red&style=plastic'>
-    </a>        
-    <a href='https://github.com/Pieharder/Pacific-Resources-Group/stargazers'>
-        <img src='https://img.shields.io/github/stars/Pieharder/Pacific-Resources-Group.svg?color=brightgreen&style=plastic'>
-    </a>
-    <a href='https://github.com/Pieharder/Pacific-Resources-Group/network/members'>
-      <img src='https://img.shields.io/github/forks/Pieharder/Pacific-Resources-Group?color=blueviolet&style=plastic'>
-    </a>        
+    </a>             
     <a href='https://github.com/Pieharder/Pacific-Resources-Group/issues'>
-      <img src='https://img.shields.io/github/issues/Pieharder/Pacific-Resources-Group?color=blue&style=plastic'>
+      <img src='https://img.shields.io/github/issues/Pieharder/Pacific-Resources-Group?color=brightgreen&style=plastic'>
     </a>
   </p>    
 </p>
-
 <p align='center'>
   <small><strong>Geoff Goetz | May 8, 2020</strong></small>
 </p>
@@ -86,5 +79,12 @@ _To view/edit the source code of this application, open the contents in a text e
 </details>
 
 ### License
+
+<a href='https://github.com/Pieharder/Pacific-Resources-Group/stargazers'>
+    <img src='https://img.shields.io/github/stars/Pieharder/Pacific-Resources-Group.svg?color=yellow&style=plastic'>
+</a>
+<a href='https://github.com/Pieharder/Pacific-Resources-Group/network/members'>
+  <img src='https://img.shields.io/github/forks/Pieharder/Pacific-Resources-Group?color=blueviolet&style=plastic'>
+</a>   
 
 Copyright &copy; 2020 Geoff Goetz 
