@@ -1,24 +1,24 @@
 <br>
   <h1 align='center'>Pacific Resources Group</h1>
   <h3 align='center'>Land Management, Urban Forestry, and Natural Resource Consulting.</h3>
-<p align="center">
-  <p align="center">
-    <a href="#/Pacific-Resources-Group/graphs/contributors">
-        <img src="https://img.shields.io/github/contributors/Pieharder/Pacific-Resources-Group.svg?color=red&style=plastic">
+<p align='center'>
+  <p align='center'>
+    <a href='https://github.com/Pieharder/Pacific-Resources-Group/graphs/contributors'>
+        <img src='https://img.shields.io/github/contributors/Pieharder/Pacific-Resources-Group.svg?color=red&style=plastic'>
     </a>        
-    <a href="#/Pacific-Resources-Group/stargazers">
-        <img src="https://img.shields.io/github/stars/Pieharder/Pacific-Resources-Group.svg?color=brightgreen&style=plastic">
+    <a href='https://github.com/Pieharder/Pacific-Resources-Group/stargazers'>
+        <img src='https://img.shields.io/github/stars/Pieharder/Pacific-Resources-Group.svg?color=brightgreen&style=plastic'>
     </a>
-    <a href="#/Pacific-Resources-Group/network/members">
-      <img src="https://img.shields.io/github/forks/Pieharder/Pacific-Resources-Group?color=blueviolet&style=plastic">
+    <a href='https://github.com/Pieharder/Pacific-Resources-Group/network/members'>
+      <img src='https://img.shields.io/github/forks/Pieharder/Pacific-Resources-Group?color=blueviolet&style=plastic'>
     </a>        
-    <a href="#/Pacific-Resources-Group/issues">
-      <img src="https://img.shields.io/github/issues/Pieharder/Pacific-Resources-Group?color=blue&style=plastic">
+    <a href='https://github.com/Pieharder/Pacific-Resources-Group/issues'>
+      <img src='https://img.shields.io/github/issues/Pieharder/Pacific-Resources-Group?color=blue&style=plastic'>
     </a>
   </p>    
 </p>
 
-<p align="center">
+<p align='center'>
   <small><strong>Geoff Goetz | May 8, 2020</strong></small>
 </p>
 
@@ -39,7 +39,7 @@ This project is to create a website for my father’s business. Ideally this pro
 
 ###### For macOS:
 _If Homebrew is not installed on your computer already, then install Homebrew by entering the following two commands in Terminal:_
-* ``/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"``
+* ``/usr/bin/ruby -e '$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)'``
 * ``echo 'export PATH=/usr/local/bin:$PATH' >> ~/.bash_profile``
 
 _Install Git with the following command:_
