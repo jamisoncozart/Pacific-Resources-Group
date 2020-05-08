@@ -9,8 +9,8 @@ Land Management, Urban Forestry, and Natural Resource Consulting.
 
 ### Component Tree
 **PLACEHOLDER FOR IMAGE**
-
-## Setup/Installation Requirements
+<details>
+<summary>Setup/Installation Requirements</summary>
 
 #### Node install
 
@@ -41,6 +41,7 @@ _Next, install npm at the project's root directory by entering the following com
 * ``npm run start``
 
 _To view/edit the source code of this application, open the contents in a text editor or IDE of your choice (e.g., to open the project in Visual Studio Code, enter the command_ ``code .`` _in Terminal (macOS) or PowerShell (Windows))._
+</details>
 
 ## Technologies Used
 * Git
