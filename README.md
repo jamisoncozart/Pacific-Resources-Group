@@ -1,4 +1,27 @@
-# Pacific Resources Group 
+<br>
+  <h1 align='center'>Pacific Resources Group</h1>
+  <h3 align='center'>Land Management, Urban Forestry, and Natural Resource Consulting.</h3>
+<p align="center">
+  <p align="center">
+    <a href="#/Pacific-Resources-Group/graphs/contributors">
+        <img src="https://img.shields.io/github/contributors/Pieharder/Pacific-Resources-Group.svg?color=red&style=plastic">
+    </a>        
+    <a href="#/Pacific-Resources-Group/stargazers">
+        <img src="https://img.shields.io/github/stars/Pieharder/Pacific-Resources-Group.svg?color=brightgreen&style=plastic">
+    </a>        
+    <a href="#/Pacific-Resources-Group/issues">
+        <img src="https://img.shields.io/github/issues/Pieharder/Pacific-Resources-Group?color=blue&style=plastic">
+    </a>
+  </p>    
+</p>
+
+<p align="center">
+  <small>Bootstrapped May 8th 2020</small>
+</p>
+
+
+
+-----------------------------
 
 #### By: Geoff Goetz | May 8, 2020
 
@@ -9,8 +32,10 @@ Land Management, Urban Forestry, and Natural Resource Consulting.
 
 ### Component Tree
 **PLACEHOLDER FOR IMAGE**
+
+
 <details>
-<summary>Setup/Installation Requirements</summary>
+<summary><strong>Setup/Installation Requirements</strong></summary>
 
 #### Node install
 
@@ -57,4 +82,7 @@ _To view/edit the source code of this application, open the contents in a text e
 
 ### License
 
-Copyright &copy; 2020 Geoff Goetz
+Copyright &copy; 2020 Geoff Goetz 
+<a href="https://www.linkedin.com/in/geoffgoetz503/">
+  <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=plastic&logo=linkedin&colorB=2867B2">
+</a>
