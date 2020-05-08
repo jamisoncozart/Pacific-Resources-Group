@@ -28,6 +28,10 @@
 
 This project is to create a website for my father’s business. Ideally this project will display some of the work he has done, recommendations from industry professionals, and credentials as well as contact information. This project will ideally utilize react as a framework and sass for styling. This project will consist mainly of front end as there is really no call for a back end I can see although I would like to implement some as a stretch goal if possible.
 
+## Use Case:
+
+This is a website for my father's self run business, which is currently an analog relic in a digital age. The business currently has very little to no digital presence and relies on word of mouth. He has had several domains for his business for many many years but has never used them in any way. He has relied solely on word of mouth to get his name out there. This project will ideally help boost the company's visibility and ease of access by providing a way to find out the kind of work he does and a way to get in contact.
+
 ### Component Tree
 **PLACEHOLDER FOR IMAGE**
 
