@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ContactsBody() {
+function Contacts() {
   return(
     <React.Fragment>
       <h1>CONTACT TEST</h1>
@@ -8,4 +8,4 @@ function ContactsBody() {
   )
 }
 
-export default ContactsBody;
+export default Contacts;
