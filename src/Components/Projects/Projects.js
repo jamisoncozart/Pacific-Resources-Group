@@ -1,6 +1,6 @@
 import React from 'react';
 
-function ProjectBody() {
+function Projects() {
   return(
     <React.Fragment>
       <h1>PROJECT TEST</h1>
@@ -8,4 +8,4 @@ function ProjectBody() {
   )
 }
 
-export default ProjectBody;
+export default Projects;
