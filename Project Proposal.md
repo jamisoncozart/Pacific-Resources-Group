@@ -43,6 +43,8 @@ As stated above, this is a website for my father's business, which is currently 
 
 * Permanent deployment with AWS or other hosting service.
 
+* Build a webhost enviroment and deploy project on Raspberry Pi
+
 
 ### _**Tools for Additional Features:**_
 
@@ -53,6 +55,8 @@ As stated above, this is a website for my father's business, which is currently 
 * C#
 
 * Domain and service host service
+
+* Raspian
 
 
 ## Final Thoughts:
