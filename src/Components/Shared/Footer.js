@@ -1,6 +1,7 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 function Footer() {
+  
   const styles = {
     background: 'aliceblue',
     position: 'fixed',
