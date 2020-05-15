@@ -3,7 +3,8 @@ import { Container, Row, Col } from 'react-bootstrap';
 function Footer() {
   
   const styles = {
-    background: 'aliceblue',
+    background: 'rgba(100, 109, 122, 0.5)',
+    color: 'white',
     position: 'fixed',
     left: '0px',
     bottom: '0px',
