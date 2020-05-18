@@ -1,21 +1,16 @@
 import React from 'react';
 import logo from '../../Assets/PRG.png';
 import './Shared.scss'
-import { Nav } from 'react-bootstrap';
+import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
 
 function NavBar() {
 
-  const styles = {
-    background: 'rgba(13, 66, 48)',
-    color: 'white'
-  }
-
   return (
     <div className='navWhole'>
-      <img className='logoStyle' src={logo} alt='Business Logo'/>
-      <Nav className="justify-content-end" activeKey="/">
+      <Nav activeKey="/splash">
+        <img className='logoStyle' src={logo} alt='Business Logo'/>
         <Nav.Item>
-          <Nav.Link className='navStyle' href="/">Home</Nav.Link>
+          <Nav.Link className='navStyle' href="/splash">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item>
           <Nav.Link className='navStyle' href="/about">Who We Are</Nav.Link>
