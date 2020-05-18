@@ -16,7 +16,7 @@ function App() {
       <NavBar />
 
       <Switch>
-      <Route path='/'>
+      <Route path='/splash'>
           <SplashBody />
         </Route>
         <Route path='/about'>
