@@ -6,23 +6,26 @@ import { Nav } from 'react-bootstrap';
 function NavBar() {
 
   const styles = {
-    background: 'rgba(73, 114, 122, 0.5)',
+    background: 'rgba(13, 66, 48)',
     color: 'white'
-  }
-  
-  const logoStyle = {
-    width: '5%',
-    height: '5%'
   }
 
   return (
-    <div style={styles}>
-      <Nav className="mr-auto">
-        <img style={logoStyle} src={logo} alt='Business Logo'/>
-        <Nav.Link className='navStyle' href="/">Home</Nav.Link>
-        <Nav.Link className='navStyle' href="/about">Who We Are</Nav.Link>
-        <Nav.Link className='navStyle' href="/projects">What We Do</Nav.Link>
-        <Nav.Link className='navStyle' href="/contacts">Contact Us</Nav.Link>
+    <div className='navWhole'>
+      <img className='logoStyle' src={logo} alt='Business Logo'/>
+      <Nav className="justify-content-end" activeKey="/">
+        <Nav.Item>
+          <Nav.Link className='navStyle' href="/">Home</Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
+          <Nav.Link className='navStyle' href="/about">Who We Are</Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
+         <Nav.Link className='navStyle' href="/projects">What We Do</Nav.Link>
+        </Nav.Item>
+        <Nav.Item>
+         <Nav.Link className='navStyle' href="/contacts">Contact Us</Nav.Link>
+        </Nav.Item>
       </Nav>
     </div>
   );
