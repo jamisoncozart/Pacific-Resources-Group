@@ -2,6 +2,7 @@ import React from 'react';
 import NavBar from './Shared/NavBar';
 import Header from './Shared/Header';
 import Footer from './Shared/Footer';
+import SplashBody from './Splash/SplashBody';
 import Projects from './Projects/Projects';
 import Contacts from './Contacts/Contacts';
 import AboutUs from './Contacts/AboutUs';
@@ -15,6 +16,9 @@ function App() {
       <NavBar />
 
       <Switch>
+      <Route path='/'>
+          <SplashBody />
+        </Route>
         <Route path='/about'>
           <AboutUs />
         </Route>
