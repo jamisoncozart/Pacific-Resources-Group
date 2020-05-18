@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap';
+import { Navbar, Nav, Form, FormControl, Button } from 'react-bootstrap';
 
 function NavBar() {
 
@@ -11,7 +11,7 @@ function NavBar() {
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="mr-auto">
       <Nav.Link href="/">Home</Nav.Link>
-      <Nav.Link href="#">Who We Are</Nav.Link>
+      <Nav.Link href="/about">Who We Are</Nav.Link>
       <Nav.Link href="/projects">What We Do</Nav.Link>
       <Nav.Link href="/contacts">Contact Us</Nav.Link>
     </Nav>

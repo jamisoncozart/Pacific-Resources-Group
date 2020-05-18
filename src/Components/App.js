@@ -4,6 +4,7 @@ import Header from './Shared/Header';
 import Footer from './Shared/Footer';
 import Projects from './Projects/Projects';
 import Contacts from './Contacts/Contacts';
+import AboutUs from './Contacts/AboutUs';
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import '../App.scss';
 
@@ -14,6 +15,9 @@ function App() {
       <NavBar />
 
       <Switch>
+        <Route path='/about'>
+          <AboutUs />
+        </Route>
         <Route path='/projects'>
           <Projects />
         </Route>
