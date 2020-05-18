@@ -1,5 +1,5 @@
 <br>
-  <h1 align='center'>Pacific Resources Group</h1>
+  <h1 align='center'>Pacific Resources Group<img src='./src/Assets/PRG.png'></h1>
   <h3 align='center'>Land Management, Urban Forestry, and Natural Resource Consulting.</h3>
 <p align='center'>
   <p align='center'>
