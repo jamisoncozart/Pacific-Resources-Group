@@ -3,7 +3,7 @@ import React from 'react';
 function Contacts() {
 
   const styles = {
-    color: 'white',
+    color: 'grey',
   }
 
   return(

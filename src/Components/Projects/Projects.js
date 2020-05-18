@@ -3,7 +3,7 @@ import React from 'react';
 function Projects() {
 
   const styles = {
-    color: 'white',
+    color: 'grey',
   }
 
   return(
