@@ -1,15 +1,11 @@
 import React from 'react';
+import './Shared.scss'
 
 function Header() {
-
-  const styles = {
-    color: 'white',
-  }
-    
   return(
-    <React.Fragment>
-      <h1 style={styles}>Header Placeholder Text</h1>
-    </React.Fragment>
+    <div className='headerWhole'>
+      <h1>Header Placeholder Text</h1>
+    </div>
   );
 }
 
