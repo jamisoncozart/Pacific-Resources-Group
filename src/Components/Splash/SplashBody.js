@@ -1,15 +1,14 @@
 import React from 'react';
+import './Splash.scss'
 
 function SplashBody() {
   
-  const styles = {
-    color: 'white',
-  }
+
 
   return(
-    <React.Fragment>
-      <h1 style={styles}>SPLASH TEST</h1>
-    </React.Fragment>
+    <div className='splashWhole'>
+      <h1>SPLASH TEST</h1>
+    </div>
   )
 }
 
