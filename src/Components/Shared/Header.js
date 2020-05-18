@@ -4,7 +4,8 @@ import './Shared.scss'
 function Header() {
   return(
     <div className='headerWhole'>
-      <h1>Header Placeholder Text</h1>
+      <h1>Pacific Resources Group</h1>
+      <h3>Land Management | Urban Forestry | Natural Resource Consulting</h3>
     </div>
   );
 }
