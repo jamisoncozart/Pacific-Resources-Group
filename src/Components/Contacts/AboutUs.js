@@ -1,14 +1,10 @@
 import React from 'react';
+import './ContactsStyles.scss';
 
 function AboutUs() {
 
-  const styles = {
-    background: 'rgba(100, 109, 122, 0.7)',
-    color: 'white'
-  }
-
   return(
-    <div style={styles}>
+    <div className='aboutWhole'>
       <h1>About Us Test</h1>
       <p>
         Mr. Goetz is a recognized expert in the field of urban land management, landscape planning & construction and urban forestry. Mr. Goetz holds degrees in both Forestry and Landscape Architecture. He is a member of the American Society of Consulting Arborists, Registration Number 260, the American Society of Landscape Architects, Oregon Registration Number 80 and the Society of American Foresters. Mr. Goetz's current practice emphasizes cost effective stewardship of client properties and projects. This is accomplished by preserving suitable indigenous vegetation if appropriate, assisting in the planning, design and construction of site improvements, natural features and landscape amenities that are compatible with physical conditions present on the finished project. This is followed by recommendations on landscape maintenance techniques that ensure the survival and growth of the landscape plants and supports the desired performance of site improvements, all at reasonable cost. Over the long-term this maximizes the return on a client’s investment in project development and annual operating costs.
