@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from '../../Assets/PRG.png';
 import './Shared.scss'
 import { Nav } from 'react-bootstrap';
 
@@ -7,8 +6,7 @@ function NavBar() {
 
   return (
     <div className='navWhole'>
-      <Nav activeKey="/splash">
-        <img className='logoStyle' src={logo} alt='Business Logo'/>
+      <Nav className="justify-content-center" activeKey="/splash">
         <Nav.Item>
           <Nav.Link className='navStyle' href="/splash">Home</Nav.Link>
         </Nav.Item>
