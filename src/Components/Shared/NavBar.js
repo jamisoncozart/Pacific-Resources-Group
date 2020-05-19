@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../../Assets/PRG.png';
 import './Shared.scss'
-import { Nav, Navbar, NavDropdown } from 'react-bootstrap';
+import { Nav } from 'react-bootstrap';
 
 function NavBar() {
 
