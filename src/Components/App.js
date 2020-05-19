@@ -1,5 +1,4 @@
 import React from 'react';
-import NavBar from './Shared/NavBar';
 import Header from './Shared/Header';
 import Footer from './Shared/Footer';
 import SplashBody from './Splash/SplashBody';
@@ -13,7 +12,6 @@ function App() {
   return(
     <Router>
       <Header />
-      <NavBar />
 
       <Switch>
       <Route path='/splash'>
@@ -28,8 +26,8 @@ function App() {
         <Route path='/contacts'>
           <Contacts />
         </Route>
+      
       </Switch>
-
       <Footer />
     </Router>
   )
