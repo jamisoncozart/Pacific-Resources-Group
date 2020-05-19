@@ -1,12 +1,26 @@
+@font-face {
+  font-family: 'Arvo-BoldItalic';
+  font-weight: 700;
+  src: local('Arvo-BoldItalic'), url(../../Assets/Fonts/Arvo-BoldItalic.ttf), format('ttf');
+}
+
 .navStyle {
+  font-family: 'Arvo-BoldItalic';
   padding-bottom: 100px;
 }
 
 .headerWhole {
   background: rgb(255, 250, 241);
-  color: darkblue;
   margin-bottom: -8px;
   text-align: center;
+}
+
+#title {
+  font-family: 'Arvo-BoldItalic';
+  color: rgb(48, 48, 48);
+  font-weight: 700;
+  font-size: 60px;
+  font-style: italic;
 }
 
 .navWhole {
@@ -15,11 +29,13 @@
 }
 
 .logoStyle {
-  width: 75px;
-  height: 75px;
+  margin-top: -35px;
+  width: 150px;
+  height: 150px;
 }
 
 .footerWhole {
+  font-family: 'Arvo-BoldItalic';
   background: rgb(18, 38, 31);
   color: white;
   display: flex;
