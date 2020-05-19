@@ -13,10 +13,10 @@ function NavBar() {
           <Nav.Link className='navStyle' href="/splash">Home</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-          <Nav.Link className='navStyle' href="/about">Who We Are</Nav.Link>
+         <Nav.Link className='navStyle' href="/projects">What We Do</Nav.Link>
         </Nav.Item>
         <Nav.Item>
-         <Nav.Link className='navStyle' href="/projects">What We Do</Nav.Link>
+          <Nav.Link className='navStyle' href="/about">Who We Are</Nav.Link>
         </Nav.Item>
         <Nav.Item>
          <Nav.Link className='navStyle' href="/contacts">Contact Us</Nav.Link>
