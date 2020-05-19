@@ -1,17 +1,16 @@
 import React from 'react';
 import './Splash.scss'
-import { Carousel } from 'react-bootstrap';
-import LandManagement from '../../Assets/LandManagement.jpg';
-import UrbanForestry from '../../Assets/UrbanForestry.jpg';
-import NaturalResourceConsulting from '../../Assets/NaturalResourceConsulting.jpg';
+
+
 function SplashBody() {
   
 
 
   return(
     <div className='splashWhole'>
-      
-      <h1>Your Home Page could be here!</h1>
+      <h3>Land Management</h3>
+      <h3>Urban Forestry</h3>
+      <h3>Natural Resource Consulting</h3>
     </div>
   )
 }
