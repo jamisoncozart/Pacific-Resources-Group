@@ -4,50 +4,86 @@
   src: local('Arvo-BoldItalic'), url(../../Assets/Fonts/Arvo-BoldItalic.ttf), format('ttf');
 }
 
-.navStyle {
-  font-family: 'Arvo-BoldItalic';
-  padding-bottom: 100px;
-  font-size: 20px;
-  font-weight: 700;
-  color: rgb(26, 59, 34);
-}
-
-.navStyle:hover {
-  color: rgb(23, 172, 60);
-}
-
-.headerWhole {
-  background: rgb(255, 250, 241);
-  margin-bottom: -8px;
-  text-align: center;
+.headerBackground {
+  background-image: url(../../Assets/HeaderBackground.jpg);
+  min-height: 35vh;
+  background-position: 35% 58%;
+  background-size: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 #title {
+  padding-left: 100px;
   font-family: 'Arvo-BoldItalic';
-  color: rgb(48, 48, 48);
+  color: rgb(31, 31, 31);
   font-weight: 700;
   font-size: 60px;
   font-style: italic;
 }
 
-.navWhole {
-  background: rgb(255, 250, 241);
-  color: white;
-}
-
 .logoStyle {
-  margin-top: -35px;
   width: 150px;
   height: 150px;
 }
 
+
+
+#button1 {
+  position: relative;
+  left: 76.5%;
+  bottom: 90%;
+}
+
+#button2 {
+  position: relative;
+  left: 77%;
+  bottom: 90%;
+}
+
+#button3 {
+  position: relative;
+  left: 77.5%;
+  bottom: 90%;
+}
+
+#button4 {
+  position: relative;
+  left: 78%;
+  bottom: 90%;
+}
+
+
 .footerWhole {
   font-family: 'Arvo-BoldItalic';
-  background: rgb(18, 38, 31);
-  color: white;
-  display: flex;
-  position: absolute;
-  width: 100%;
-  min-height: 20vh;
-  flex-direction: column;
+  height: 25vh;
+  min-height: 25vh;
+}
+
+.footer1 {
+  background-image: url(../../Assets/LandManagement.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 33%;
+  height: 100%;
+  display: inline-block;
+}
+
+.footer2 {
+  background-image: url(../../Assets/UrbanForestry.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 34%;
+  height: 100%;
+  display: inline-block;
+}
+
+.footer3 {
+  background-image: url(../../Assets/NaturalResource.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 33%;
+  height: 100%;
+  display: inline-block;
 }
