@@ -17,7 +17,7 @@ function Header() {
       </div>
       <div>
         <h1 id='title1'>Pacific Resources Group<img className='logoStyle' src={logo} alt='Business Logo'/></h1>
-        <h2 id='title2'>Landscape Architects | Consulting Arborists | Plant Appraisals</h2>
+        <h2 id='title2'>Landscape Architects | Consulting Arborists | Plant Appraisers</h2>
       </div>
     </div>
   );
