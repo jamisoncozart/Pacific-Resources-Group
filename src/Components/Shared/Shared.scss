@@ -7,7 +7,7 @@
 .headerBackground {
   background-image: url(../../Assets/HeaderBackground.jpg);
   min-height: 35vh;
-  background-position: 35% 58%;
+  background-position: 50% 50%;
   background-size: contain;
   background-size: cover;
   background-repeat: no-repeat;
@@ -20,7 +20,7 @@
   margin-left: 25px;
 }
 
-#title {
+#title1 {
   position: absolute;
   left: 25px;
   top: -35px;
@@ -29,13 +29,23 @@
   font-weight: 700;
   font-size: 60px;
   font-style: italic;
-  line-height: 25px;
 }
 
 .logoStyle {
   width: 135px;
   height: 165px;
   padding-bottom: 10px;
+}
+
+#title2 {
+  position: absolute;
+  left: 25px;
+  top: 100px;
+  font-family: 'Arvo-BoldItalic';
+  color: rgb(31, 31, 31);
+  font-weight: 700;
+  font-size: 38px;
+  font-style: normal;
 }
 
 .buttons {
@@ -93,7 +103,7 @@
   color: white;
   margin: 0;
   position: absolute;
-  bottom: 100px;
+  bottom: 110px;
   left: 5%;
   font-size: 60px;
 }
@@ -103,7 +113,7 @@
   color: white;
   margin: 0;
   position: absolute;
-  bottom: 100px;
+  bottom: 110px;
   left: 12%;
   font-size: 60px;
 }
@@ -112,8 +122,8 @@
 
 .footer2 {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)
+    rgba(0, 0, 0, 0.4),
+    rgba(0, 0, 0, 0.4)
   ),
   url(../../Assets/UrbanForestry.jpg);
   background-size: cover;
@@ -128,7 +138,7 @@
   color: white;
   margin: 0;
   position: absolute;
-  bottom: 125px;
+  bottom: 135px;
   left: 45%;
   font-size: 60px;
 }
@@ -138,7 +148,7 @@
   color: white;
   margin: 0;
   position: absolute;
-  bottom: 75px;
+  bottom: 85px;
   left: 45%;
   font-size: 60px;
 }
@@ -164,7 +174,7 @@
   margin: 0;
   position: absolute;
   left: 77.5%;
-  bottom: 150px;
+  bottom: 160px;
   font-size: 60px;
 }
 
@@ -174,7 +184,7 @@
   margin: 0;
   position: absolute;
   left: 77.5%;
-  bottom: 100px;
+  bottom: 110px;
   font-size: 60px;
 }
 
@@ -184,6 +194,6 @@
   margin: 0;
   position: absolute;
   left: 77.5%;
-  bottom: 50px;
+  bottom: 60px;
   font-size: 60px;
 }

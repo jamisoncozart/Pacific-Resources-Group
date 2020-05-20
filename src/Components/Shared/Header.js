@@ -16,7 +16,8 @@ function Header() {
         <hr id='headerLine'/>
       </div>
       <div>
-        <h1 id='title'>Pacific Resources Group<img className='logoStyle' src={logo} alt='Business Logo'/></h1>
+        <h1 id='title1'>Pacific Resources Group<img className='logoStyle' src={logo} alt='Business Logo'/></h1>
+        <h2 id='title2'>Landscape Architects | Consulting Arborists | Plant Appraisals</h2>
       </div>
     </div>
   );
