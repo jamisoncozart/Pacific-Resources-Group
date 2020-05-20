@@ -1,5 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+
 .splashWhole {
   background-color: rgb(255, 250, 241);
   height: 35vh;
   min-height: 25vh;
+}
+
+.splashTitle {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 50px;
+  font-weight: 500;
+}
+
+#splashTitle1 {
+  font-size: 70px;
+  font-weight: 900;
 }
