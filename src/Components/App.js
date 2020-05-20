@@ -13,13 +13,7 @@ function App() {
     <Router>
       <Header />
       <Switch>
-        <Route path='/'>
-          <SplashBody />
-        </Route>
 
-        <Route path='/splash'>
-          <SplashBody />
-        </Route>
         <Route path='/about'>
           <AboutUs />
         </Route>
@@ -28,6 +22,9 @@ function App() {
         </Route>
         <Route path='/contacts'>
           <Contacts />
+        </Route>
+        <Route path='/'>
+          <SplashBody />
         </Route>
       
       </Switch>
