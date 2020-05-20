@@ -1,21 +1,27 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .splashWhole {
-  background-color: rgb(255, 250, 241);
+  background-color: rgb(255, 244, 223);
   height: 35vh;
   min-height: 25vh;
 }
 
-.splashTitle {
-  font-family: 'PT Sans Narrow', sans-serif;
+.splashTitle1 {
+  font-family: 'PT Sans', sans-serif;
   font-size: 50px;
-  font-weight: 500;
+  font-weight: 900;
+  position: absolute;
+  left: 400px;
+  bottom: 550px;
 }
 
-#splashTitle1 {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 70px;
-  font-weight: 900;
+.splashTitle2 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 60px;
+  font-weight: 500;
+  position: absolute;
+  left: 530px;
+  bottom: 548px;
 }
 
 #caret1 {
@@ -38,11 +44,21 @@
 }
 
 #caret3 {
-  color: rgba(66, 255, 0, 0.5);
+  color: rgba(66, 255, 0, 0.3);
 
   font-weight: 700;
   font-size: 300px;
   position: absolute;
   right: -40px;
   bottom: 400px;
+}
+
+.splashBlurb {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 23px;
+  text-align: left;
+  position: absolute;
+  left: 750px;
+  bottom: 410px;
+  width: 34%;
 }
