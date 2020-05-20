@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 .splashWhole {
   background-color: rgb(255, 250, 241);
@@ -13,6 +13,36 @@
 }
 
 #splashTitle1 {
+  font-family: 'PT Sans', sans-serif;
   font-size: 70px;
   font-weight: 900;
+}
+
+#caret1 {
+  color: #D3D644;
+  font-weight: 700;
+  font-size: 300px;
+  position: absolute;
+  left: -40px;
+  bottom: 225px;
+}
+
+#caret2 {
+  color: rgba(211, 214, 68, 0.5);
+
+  font-weight: 700;
+  font-size: 300px;
+  position: absolute;
+  left: 31px;
+  bottom: 225px;
+}
+
+#caret3 {
+  color: rgba(66, 255, 0, 0.5);
+
+  font-weight: 700;
+  font-size: 300px;
+  position: absolute;
+  right: -40px;
+  bottom: 400px;
 }
