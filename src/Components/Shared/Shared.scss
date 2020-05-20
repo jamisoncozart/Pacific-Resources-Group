@@ -55,14 +55,18 @@
 }
 
 
-.footerWhole {
+.footerPics {
   font-family: 'Arvo-BoldItalic';
   height: 25vh;
   min-height: 25vh;
 }
 
 .footer1 {
-  background-image: url(../../Assets/LandManagement.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url(../../Assets/LandManagement.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 33%;
@@ -70,8 +74,18 @@
   display: inline-block;
 }
 
+.text1 {
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
 .footer2 {
-  background-image: url(../../Assets/UrbanForestry.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url(../../Assets/UrbanForestry.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 34%;
@@ -79,11 +93,27 @@
   display: inline-block;
 }
 
+.text2 {
+  color: white;
+  margin: 0;
+  padding: 20px;
+}
+
 .footer3 {
-  background-image: url(../../Assets/NaturalResource.jpg);
+  background: linear-gradient(
+    rgba(0, 0, 0, 0.5),
+    rgba(0, 0, 0, 0.5)
+  ),
+  url(../../Assets/NaturalResource.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 33%;
   height: 100%;
   display: inline-block;
+}
+
+.text3 {
+  color: white;
+  margin: 0;
+  padding: 20px;
 }
