@@ -12,7 +12,9 @@ function SplashBody() {
       <div>
         <p id='caret1'>></p><p id='caret2'>></p>
       </div>
-      
+      <div>
+      <p id='caret3'> {'<'} </p>
+      </div>
     </div>
   )
 }
