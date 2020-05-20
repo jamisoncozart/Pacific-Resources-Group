@@ -56,10 +56,12 @@
 
 
 .footerPics {
-  font-family: 'Arvo-BoldItalic';
+  background-color: rgb(255, 250, 241);
   height: 25vh;
   min-height: 25vh;
 }
+
+//FOOTER IMAGE 1
 
 .footer1 {
   background: linear-gradient(
@@ -74,11 +76,23 @@
   display: inline-block;
 }
 
-.text1 {
+#text1a {
+  font-family: 'Arvo-BoldItalic';
   color: white;
   margin: 0;
-  padding: 20px;
+  position: absolute;
+  font-size: 60px;
 }
+
+#text1b {
+  font-family: 'Arvo-BoldItalic';
+  color: white;
+  margin: 0;
+  position: absolute;
+  font-size: 60px;
+}
+
+//FOOTER IMAGE 2
 
 .footer2 {
   background: linear-gradient(
@@ -93,11 +107,23 @@
   display: inline-block;
 }
 
-.text2 {
+#text2a {
+  font-family: 'Arvo-BoldItalic';
   color: white;
   margin: 0;
-  padding: 20px;
+  position: absolute;
+  font-size: 60px;
 }
+
+#text2b {
+  font-family: 'Arvo-BoldItalic';
+  color: white;
+  margin: 0;
+  position: absolute;
+  font-size: 60px;
+}
+
+//FOOTER IMAGE 3
 
 .footer3 {
   background: linear-gradient(
@@ -112,8 +138,32 @@
   display: inline-block;
 }
 
-.text3 {
+#text3a {
+  font-family: 'Arvo-BoldItalic';
   color: white;
   margin: 0;
-  padding: 20px;
+  position: absolute;
+  left: 77.5%;
+  bottom: 150px;
+  font-size: 60px;
+}
+
+#text3b {
+  font-family: 'Arvo-BoldItalic';
+  color: white;
+  margin: 0;
+  position: absolute;
+  left: 77.5%;
+  bottom: 100px;
+  font-size: 60px;
+}
+
+#text3c {
+  font-family: 'Arvo-BoldItalic';
+  color: white;
+  margin: 0;
+  position: absolute;
+  left: 77.5%;
+  bottom: 50px;
+  font-size: 60px;
 }
