@@ -14,7 +14,10 @@ function App() {
       <Header />
 
       <Switch>
-      <Route path='/'>
+        <Route path='/'>
+          <SplashBody />
+        </Route>
+        <Route path='/splash'>
           <SplashBody />
         </Route>
         <Route path='/about'>
