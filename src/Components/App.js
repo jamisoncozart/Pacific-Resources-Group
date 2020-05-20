@@ -12,11 +12,11 @@ function App() {
   return(
     <Router>
       <Header />
-
       <Switch>
         <Route path='/'>
           <SplashBody />
         </Route>
+
         <Route path='/splash'>
           <SplashBody />
         </Route>
