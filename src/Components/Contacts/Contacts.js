@@ -2,14 +2,12 @@ import React from 'react';
 
 function Contacts() {
 
-  const styles = {
-    color: 'grey',
-  }
+
 
   return(
-    <React.Fragment>
-      <h1 style={styles}>CONTACT TEST</h1>
-    </React.Fragment>
+    <div className='contactWhole'>
+      <h1>CONTACT TEST</h1>
+    </div>
   )
 }
 
