@@ -29,7 +29,8 @@ This project is to create a website for my father’s business. Ideally this pro
 This is a website for my father's self run business, which is currently an analog relic in a digital age. The business currently has very little to no digital presence and relies on word of mouth. He has had several domains for his business for many many years but has never used them in any way. He has relied solely on word of mouth to get his name out there. This project will ideally help boost the company's visibility and ease of access by providing a way to find out the kind of work he does and a way to get in contact.
 
 ### Component Tree
-**PLACEHOLDER FOR IMAGE**
+
+<img src='./src/Assets/PRGComponentMap.png'>
 
 
 <details>
