@@ -9,7 +9,7 @@ function Projects() {
         <h3 id='boeingTitle'>Boeing Commercial Airplane Group HQ Campus, at Longacres, Renton WA</h3>
         <p id='boeingProject'>Boeing purchased the Longacres Race Track and converted it to the headquarters of the Commercial Airplane Group. PRG provided consulting services for 13 years as the site was developed to include the Customer Service Training Center, Daycare Center, Headquarters Office Tower and 36 acre storm water management pond and wetland mitigation with paved pedestrian trails. PRG assisted the design team in site planning, landscape design, construction supervision and landscape maintenance contract administration. PRG also served as the contracted Corporate Grounds Manager and consultant to the Boeing Facilities Maintenance Division for several Boeing facilities in the Renton and south Seattle area.</p>
       </div>
-
+      
       <div>
         <h3 id='nikeTitle'>NIKE World HQ, Tiger Woods Building, Mia Hamm Building, Daycare Center</h3>
         <p id='nikeProject'>PRG assisted the design team in site planning to retain native trees and vegetation for Pacific Northwest themed exhibits including the Park Entrance, Cascade Stream & Pond, Black Bear Ridge, Cascade Crest, Stellar Cove, Eagle Canyon and Connecting pedestrian circulation. This included assessment of trees and other existing vegetation, recommendations on retention, removal and replacement of trees and other native vegetation, recommendations on tree protection and construction techniques to retain desirable vegetation and post construction care of both existing and newly installed native plants over a number of years.</p>
