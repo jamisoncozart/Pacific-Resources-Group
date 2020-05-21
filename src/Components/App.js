@@ -25,10 +25,11 @@ function App() {
         </Route>
         <Route path='/'>
           <SplashBody />
+          <Footer />
         </Route>
       
       </Switch>
-      <Footer />
+
     </Router>
   )
 }
