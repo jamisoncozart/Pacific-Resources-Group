@@ -1,5 +1,5 @@
 import React from 'react';
-import './ContactsStyles.scss';
+import './ContactAboutStyles.scss';
 
 function AboutUs() {
 
