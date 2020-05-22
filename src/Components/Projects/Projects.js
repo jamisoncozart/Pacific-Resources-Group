@@ -11,7 +11,7 @@ function Projects() {
       </div>
 
       <div className='Project2'>
-        <h3 id='nikeTitle'>NIKE World HQ, Tiger Woods Building, Mia Hamm Building, Daycare Center</h3>
+        <h3 id='nikeTitle'>NIKE World HQ, Tiger Woods Building, Mia Hamm Building, Child Development Center</h3>
         <p id='nikeProject'>PRG assisted the design team in site planning to retain native trees and vegetation for Pacific Northwest themed exhibits including the Park Entrance, Cascade Stream & Pond, Black Bear Ridge, Cascade Crest, Stellar Cove, Eagle Canyon and Connecting pedestrian circulation. This included assessment of trees and other existing vegetation, recommendations on retention, removal and replacement of trees and other native vegetation, recommendations on tree protection and construction techniques to retain desirable vegetation and post construction care of both existing and newly installed native plants over a number of years.</p>
       </div>
 
