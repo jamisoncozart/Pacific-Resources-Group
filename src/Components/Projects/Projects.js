@@ -17,9 +17,8 @@ function Projects() {
       </div>
 
       <div className='Project3'>
-        <img src={Daimler1} alt={'Daimler1'}/>
         <h3 id='daimlerTitle'>Daimler HQ, Swan Island, Portland</h3>
-        <p id='daimlerProject'>This site was an existing older commercial development that was to be demolished to construct the Daimler Headquarters, a Daycare Center, Parking, Utility Support building and pedestrian pathway in the Willamette Greenway on the east bank of the Willamette River. PRG’s role was to assess all the trees and the mature landscape on site and recommend retention of those elements that could tolerate the changes in growing conditions and that would not be disturbed, assist the design team with site planning, design tree protection measures, recommend construction techniques and supervise construction near existing trees to be retained and make post construction maintenance practices.</p>
+        <p id='daimlerProject'><img id='P3-1' src={Daimler1} alt={'Daimler1'}/>This site was an existing older commercial development that was to be demolished to construct the Daimler Headquarters, a Daycare Center, Parking, Utility Support building and pedestrian pathway in the Willamette Greenway on the east bank of the Willamette River. PRG’s role was to assess all the trees and the mature landscape on site and recommend retention of those elements that could tolerate the changes in growing conditions and that would not be disturbed, assist the design team with site planning, design tree protection measures, recommend construction techniques and supervise construction near existing trees to be retained and make post construction maintenance practices.</p>
       </div>
 
       <div className='Project4'>
